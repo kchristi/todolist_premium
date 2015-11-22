@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TODOList_Premium</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="menu_vider">Vider</string>
+	<string name="menu_preference">Preference</string>
+</resources>
